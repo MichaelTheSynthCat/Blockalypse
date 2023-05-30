@@ -1,2 +1,2 @@
 # Blockalypse
-A Tetris game bringing CO-OP and other innovative mechanics to this classic game.
+A Tetris-like game bringing CO-OP and other innovative gamemodes to this classic game.
