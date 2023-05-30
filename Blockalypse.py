@@ -304,10 +304,6 @@ class Game(Canvas):  # game engine
         print('Loaded images\n', self.images, '\n')
 
     def graphics(self):  # graphics engine
-        try:
-            utilities.show_status()
-        except NameError:
-            pass
         self.delete('static', 'falling', 'player_show', 'trailing')
 
         # show trailings
